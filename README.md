@@ -12,4 +12,4 @@ You can assume that the pattern is at 0,0,0 in some global coordinate system and
 
 Solution:
 
-I utilized several OpenCV modules, such as contouring and rectangular pproximation to extraxt releveant information from the images. Using this infromation I performed a series of calculations to identify camera position and create a simple visualization identifying camera position.
+I utilized several OpenCV modules, such as contouring and rectangular approximation to extract relevant information from the images. Using this information I performed a series of calculations to identify camera position and create a simple visualization identifying the camera position.
