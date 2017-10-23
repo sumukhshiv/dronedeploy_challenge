@@ -11,4 +11,5 @@ This zip file https://www.dropbox.com/s/afrfye7hvra7wvy/images.zip?dl=0 contains
 You can assume that the pattern is at 0,0,0 in some global coordinate system and are thus looking for the x, y, z and yaw, pitch, roll of the camera that took each image. Please submit a link to a Github repository contain the code for your solution. Readability and comments are taken into account too. You may use 3rd party libraries like OpenCV and Numpy. 
 
 Solution:
+
 I utilized several OpenCV modules, such as contouring and rectangular pproximation to extraxt releveant information from the images. Using this infromation I performed a series of calculations to identify camera position and create a simple visualization identifying camera position.
